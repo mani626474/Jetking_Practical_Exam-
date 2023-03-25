@@ -1,0 +1,9 @@
+4) Write a Python Program to put Even and Odd elements in a list
+into two different lists
+Ans:-first we are open idle and open in new tab 
+write the code and save file name.py (extension)
+code:-my_list_even=[2,4,6,8,10]
+print(my_list_even)
+
+my_list_odd=[2,3,5,7,9]
+print(my_list_odd)

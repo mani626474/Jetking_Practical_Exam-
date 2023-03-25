@@ -1,0 +1,17 @@
+1) Define Python Loops and explain the classification of Python
+loops
+Ans:-Loops are used for iterable and object-oriented programming language 
+there are two type of loops
+(i) For loop:-for loop is iterable only once a program executed 
+   They are using continue and break method 
+   Continue:- stop the previous loop and start a new loop
+   break:- with the break statement we can stop loop before its looped over
+(ii)While loop:-while loop is repeated many time in a program 
+
+(2) Classification of python 
+Ans:- Python is High level, General-purpose ,Interpreted programming language
+python is easy to learn 
+it is used for creating a web applications, mobile applications, mathematics. 
+
+python is case sensitive 
+ python saperate its statements through indentations .

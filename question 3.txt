@@ -1,0 +1,7 @@
+3) Write a Python Program to find the second largest number in a
+list.
+Ans:- 
+my_list=["python programming",357,33.56,4+3j,True,False]
+print(my_list)
+print(type(my_list))
+print(len(my_list))
